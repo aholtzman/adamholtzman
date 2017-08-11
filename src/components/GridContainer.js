@@ -8,7 +8,7 @@ const Container = styled.div`
   grid-template-columns: 1fr 5fr 1fr;
 
   @media(max-width: 1024px) {
-    grid-template-rows: 20px 3fr 1fr;
+    grid-template-rows: 60px 3fr 1fr;
     grid-template-columns: 1fr 5fr 1fr;
   }
 `

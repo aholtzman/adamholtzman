@@ -23,8 +23,8 @@ const Name = () => {
   return(
     <Div>
       <Link to='/'>
-      <FirstName>adam</FirstName>
-      <LastName>holtzman</LastName>
+        <FirstName>adam</FirstName>
+        <LastName>holtzman</LastName>
       </Link>
     </Div>
   );
