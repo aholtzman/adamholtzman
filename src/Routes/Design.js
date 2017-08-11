@@ -8,7 +8,7 @@ const Design = () => {
     <Container>
       <NavList>
       <h2>Design Work</h2>
-      <p>
+
       <h3>Books & Catalogs</h3>
       <h4>2015</h4>
       Photographic Holiday Cards, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
@@ -47,7 +47,6 @@ const Design = () => {
       From Fair to Fine 2, Stephen Daiter Gallery   (designer)
       <h4>2007</h4>
       Reaching for the Light: the Chicago Blues photography of Susan Greenberg, <br></br>Susan Greenberg Living Trust  (editor)
-</p>
       </NavList>
       <Logo />
     </Container>

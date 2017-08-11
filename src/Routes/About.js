@@ -7,14 +7,12 @@ const About = () => {
   return(
     <Container>
       <NavList>
-      <p>
+
       <h2>Adam Holtzman (American) b. 1975</h2>
       <h4>Currently resides in Providence, RI</h4>
-
       Adam Holtzman has dedicated himself to the craft of fine art photography in both his own practice and the promotion of other's work through his former gallery (Alibi Fine Art, 2010 - 2014) and with publications (2054 Press).  He is was an exhibiting artist at Alibi Fine Art in Chicago, IL under the ownership of Lisa Janes (2014 - 2017).<br></br><br></br>
 
       His exhibition Boldly, We Go Blindly in the spring of 2014 at Alibi Fine Art was named one of the top five photography exhibitions in Chicago for 2014.<br></br><br></br>
-
       <h3>Exhibitions</h3>
       <h4>2017</h4>
       AS220 "dark( mirrors, shadows );" Solo Show, Providence, RI<br></br><br></br>
@@ -85,7 +83,6 @@ const About = () => {
       Stationary Literary magazine<br></br>
       Issue #3, Montreal, Quebec,
       Canada
-      </p>
       </NavList>
       <Logo />
     </Container>
