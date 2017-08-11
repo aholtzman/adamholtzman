@@ -9,7 +9,6 @@ const Button = styled.button`
   background-color: rgba(255, 255, 255, 0);
   outline: 0;
   color: #303030;
-
 `
 
 const Div = styled.div`
@@ -17,19 +16,19 @@ const Div = styled.div`
   justify-content: center;
   margin: 50px;
   margin-top: 30px;
-  height: 100%;
-  width: 100%;
   grid-column-start: 1;
   grid-column-end: 4;
   grid-row-start: 2;
   grid-row-end: 3;
   justify-self: center;
-
+  align-self: start;
 `
 
 const Image = styled.img`
+  max-width: 100%;
+  height: auto;
   max-height: 550px;
-  max-width: 100%;;
+  object-fit: contain;
 `
 
 export default class Gallery extends Component {
