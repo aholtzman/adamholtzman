@@ -8,7 +8,7 @@ const Design = () => {
     <Container>
       <NavList>
       <h2>Design Work</h2><br></br>
-      <p>Adam Holtzman has been designing and building his own websites as well as for friends since 2002. In late 2016 he decided to focus on making this a profession and began learning to write the code rather than use visual programs (Adobe's GoLive & later Muse) to develop sites. Examples of his recent work can be found <span><a href='' >here</a></span>.</p>
+      <p>Adam Holtzman has been designing and building his own websites as well as for friends since 2002. In late 2016 he decided to focus on making this a profession and began learning to write the code rather than use visual programs (Adobe's GoLive & later Muse) to develop sites. Examples of his recent work can be found <span><a href='http://www.adamdavidholtzman.com' >here</a></span>.</p>
       <br></br>
       Adam has also been active in producing photography and art books; designing, editing and occasionally publishing many since 2007.<br></br><br></br>
       <h3>Books & Catalogs</h3>
