@@ -8,7 +8,7 @@ const About = () => {
     <Container>
       <NavList>
 
-      <h2>Adam Holtzman (American) b. 1975</h2>
+      <h2>(American) b. 1975</h2>
       <h4>Currently resides in Providence, RI</h4>
       Adam Holtzman has dedicated himself to the craft of fine art photography in both his own practice and the promotion of other's work through his former gallery (Alibi Fine Art, 2010 - 2014) and with publications (2054 Press).  He is was an exhibiting artist at Alibi Fine Art in Chicago, IL under the ownership of Lisa Janes (2014 - 2017).<br></br><br></br>
 

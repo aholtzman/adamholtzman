@@ -21,7 +21,11 @@ const Div = styled.div`
   grid-row-start: 2;
   grid-row-end: 3;
   justify-self: center;
-  align-self: start;
+  align-self: center;
+
+  @media (max-width: 1024px) {
+    align-self: start;
+  }
 `
 
 const Image = styled.img`

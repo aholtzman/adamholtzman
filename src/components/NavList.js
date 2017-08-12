@@ -26,6 +26,11 @@ const NavList = styled.div`
   h4 {
     color: grey;
   }
+
+  a {
+    text-decoration: none;
+    color: grey;
+  }
 `
 
 export default NavList

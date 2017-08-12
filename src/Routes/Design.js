@@ -7,12 +7,26 @@ const Design = () => {
   return(
     <Container>
       <NavList>
-      <h2>Design Work</h2>
-
+      <h2>Design Work</h2><br></br>
+      <p>Adam Holtzman has been designing and building his own websites as well as for friends since 2002. In late 2016 he decided to focus on making this a profession and began learning to write the code rather than use visual programs (Adobe's GoLive & later Muse) to develop sites. Examples of his recent work can be found <span><a href='' >here</a></span>.</p>
+      <br></br>
+      Adam has also been active in producing photography and art books; designing, editing and occasionally publishing many since 2007.<br></br><br></br>
       <h3>Books & Catalogs</h3>
+      <h4>2017</h4>
+      Every Shadow Has a Name, by David Akiba    (designer)<br></br><br></br>
+      One Hour West, by Adam Holtzman, 2054 Press     (designer, editor, artist)
+      <h4>2016</h4>
+      Daguerreotype Catalogue - Collection, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
+      Daguerreotype Catalogue - Back of Plates, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
+      Daguerreotype Catalogue - Covers, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
+      Daguerreotype Catalogue - Forgotten, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
+      Daguerreotype Catalogue - Interior Covers, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
+      Daguerreotype Catalogue - Presentations, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
+      Received on Earth, by David Akiba     (designer)
       <h4>2015</h4>
       Photographic Holiday Cards, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
-      In Blue, by Adam Holtzman, 2054 Press     (designer, editor, artist)
+      In Blue, by Adam Holtzman, 2054 Press     (designer, editor, artist)<br></br><br></br>
+      Sunday Morning, by David Akiba    (designer)
       <h4>2014</h4>
       André Kertész: “Raison d’Être” <br></br>Photographs from the Concerned Photographer Exhibitions, 1967-69<br></br>
       Stephen Daiter Gallery     (designer)
