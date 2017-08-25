@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import Home from './Routes/Home'
 import About from './Routes/About'
 import Design from './Routes/Design'
@@ -28,7 +28,7 @@ class App extends Component {
   render() {
     return (
         <Router>
-          <div>
+          <Switch>
             <Route exact path='/' component={Home} />
             <Route path='/about' component={About} />
             <Route path='/design' component={Design} />
@@ -52,7 +52,8 @@ class App extends Component {
             <Route path='/surfaces' component={Surfaces} />
             <Route path='/whitewash' component={Whitewash} />
             <Route path='/shadows' component={Shadows} />
-          </div>
+            <Route component={Home} />
+          </Switch>
         </Router>
     );
   }
