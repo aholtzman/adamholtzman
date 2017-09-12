@@ -61,6 +61,12 @@ const About = () => {
       The Otherside, “Abstractions” Group Show, Boston, MA<br></br><br></br>
       The Otherside, “New Work - Nudes & Home” Group Show, Boston, MA<br></br><br></br>
       <h3>Publications</h3>
+      <h4>2017</h4>
+      flowers - 2054 Press<br></br>
+      one hour, west - 2054 Press<br></br><br></br>
+      <h4>2015</h4>
+      Rhode Island Picture Book (or Fuck Rainbows) - 2054 Press<br></br>
+      In Blue - 2054 Press<br></br><br></br>
       <h4>2013</h4>
       f/stop Magazine<br></br>
       issue #62 “Black & White”<br></br><br></br>

@@ -14,7 +14,8 @@ const Design = () => {
       <h3>Books & Catalogs</h3>
       <h4>2017</h4>
       Every Shadow Has a Name, by David Akiba    (designer)<br></br><br></br>
-      One Hour West, by Adam Holtzman, 2054 Press     (designer, editor, artist)
+      One Hour West, by Adam Holtzman, 2054 Press     (designer, editor, artist)<br></br><br></br>
+      flowers, by Adam Holtzman, 2054 Press (designer, editor, artist)
       <h4>2016</h4>
       Daguerreotype Catalogue - Collection, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
       Daguerreotype Catalogue - Back of Plates, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
@@ -26,6 +27,8 @@ const Design = () => {
       <h4>2015</h4>
       Photographic Holiday Cards, by Charles Swedlund, Anna Press    (designer)<br></br><br></br>
       In Blue, by Adam Holtzman, 2054 Press     (designer, editor, artist)<br></br><br></br>
+      Rhode Island Picture Book (or Fuck Rainbows), by Adam Holtzman, 2054 Press     (designer, editor, artist)<br></br><br></br>
+      Iterations, Allison Barnes, Rachel Hulin & Asia Kepka, Alibi Fine Art & 2054 Press (designer, editor, curator)<br></br><br></br>
       Sunday Morning, by David Akiba    (designer)
       <h4>2014</h4>
       André Kertész: “Raison d’Être” <br></br>Photographs from the Concerned Photographer Exhibitions, 1967-69<br></br>
